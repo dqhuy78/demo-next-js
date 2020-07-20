@@ -14,7 +14,7 @@
     "immutable": "^4.0.0-rc.12",
     "less": "^3.11.1",
     "less-loader": "^5.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "next": "9.3.4",
     "next-compose-plugins": "^2.2.0",
     "next-progressbar": "^1.0.0",
