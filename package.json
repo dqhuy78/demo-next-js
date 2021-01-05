@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "antd": "^4.1.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "envalid": "^6.0.1",
     "immutable": "^4.0.0-rc.12",
     "less": "^3.11.1",
